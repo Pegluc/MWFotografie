@@ -1,0 +1,57 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.top-div{
+  background-color: #F2F2F2;
+  padding-top: 30px;
+}
+
+.link-div{
+  margin-bottom: 30px;
+}
+
+.email-div{
+    background-color: #F2F2F2;
+    padding-top: 5px;
+}
+
+.copy-div{
+  font-size: 10px;
+}
+
+h1{
+  margin: 0;
+  font-family: 'The Nautigal', cursive;
+  }
+
+h2{
+    font-family: 'Roboto', sans-serif;
+  }
+
+h3{
+    font-family: 'Roboto', sans-serif;
+  }
+
+h4{
+    font-family: 'Roboto', sans-serif;
+}
+
+p{
+  font-family: 'Inter', sans-serif;
+}
+
+a{
+  margin: 5px;
+}
+
+.logo-img{
+  margin-bottom: 30px;
+  width: 20%;
+}
+
+.profil-img{
+  margin-top: 20px;
+  width: 25%;
+}
